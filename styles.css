@@ -1,8 +1,14 @@
+body{
+  background-color: #d7ecd9;
+}
+
 .btn-contain {
     margin-bottom: 2rem;
     display: flex;
     justify-content: center;
     width: 55vw;
+    margin-left: auto;
+    margin-right:auto;
   }
   .titles {
     text-align: center;
