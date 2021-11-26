@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\NewMenu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Menu"
+	}
+}
